@@ -5,9 +5,9 @@
 
 ---
 
-I am a final-year Physics student at the Universitat Autònoma de Barcelona, with a strong academic foundation in theoretical and computational physics. I have research experience in many-body quantum systems and scientific computing, and I am currently seeking opportunities for my final degree project (Spring 2026).
+I am a final-year Physics student at the Universitat Autònoma de Barcelona, with a strong academic foundation in theoretical and computational physics. I have research experience in many-body quantum systems and scientific computing, and I am currently seeking opportunities for my final degree project (Spring 2026). 
 
-My academic interests are evolving, and I am particularly drawn to the intersection of **quantum mechanics and computation**. I am currently exploring fields such as **quantum information and quantum computing**, where I hope to deepen my understanding and contribute through research. 
+My academic interests are evolving, and I am particularly drawn to the intersection of quantum mechanics and computation. I am currently exploring fields such as quantum information and quantum computing, where I hope to deepen my understanding and contribute through research. 
 ---
 
 ## Research Experience
