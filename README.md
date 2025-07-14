@@ -17,7 +17,7 @@ My academic interests are evolving, and I am particularly drawn to the intersect
   *Quantum Field Theory for Non-equilibrium Many-body Problems*  
   Applied Green’s functions and Matsubara formalism to complex quantum systems.  
  🔗 [Project Repository 1](https://github.com/sarasame00/mgf_ir_t2g)  
- 🔗 [Project Repository 1](https://github.com/sarasame00/t2g_app)
+ 🔗 [Project Repository 2](https://github.com/sarasame00/t2g_app)
 
 - **IFIC Summer Student Programme**, IFIC Valencia (2024)  
   Participated in a medical physics research group using convolutional neural networks for image diagnostics (Python, PyTorch).
