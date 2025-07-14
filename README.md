@@ -16,6 +16,8 @@ My academic interests are evolving, and I am particularly drawn to the intersect
 - **CSIC JAE Intro Research Fellowship**, ICMAB (2024–2025)  
   *Quantum Field Theory for Non-equilibrium Many-body Problems*  
   Applied Green’s functions and Matsubara formalism to complex quantum systems.
+ 🔗 [Project Repository 1](https://github.com/sarasame00/mgf_ir_t2g)
+ 🔗 [Project Repository 1](https://github.com/sarasame00/t2g_app)
 
 - **IFIC Summer Student Programme**, IFIC Valencia (2024)  
   Participated in a medical physics research group using convolutional neural networks for image diagnostics (Python, PyTorch).
@@ -39,6 +41,7 @@ My academic interests are evolving, and I am particularly drawn to the intersect
 A complete CV (PDF) is available here:  
 [Download CV (PDF)](https://github.com/sarasame00/resume/raw/main/cv2025.pdf
 )
+Or view it directly in my [resume repository](https://github.com/sarasame00/resume)
 
 ---
 
